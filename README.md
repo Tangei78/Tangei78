@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Tange 👋 
 
-<!--
-**Tangei78/Tangei78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Building in Public** | Leveraging AI & On-Chain Data for Smart Web3 Trading.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ About Me
+* 🤖 **Focus:** AI Workflows, Solana Ecosystem, On-Chain Liquidity & Macro Analysis
+* 📈 **Trading:** Systematic Day Trading & Automated Alpha Strategies
+* 🛠️ **Building:** Open-source scripts & workflows for Web3 market analytics
+
+---
+
+### 🛠️ Tech Stack & Focus
+- **Ecosystem:** Solana / Bitcoin / Ethereum
+- **Data & AI:** Python, On-Chain Analytics, Trading Bots, LLM Agents
+- **Strategy:** Liquidity Tracking, Orderflow, Macro Trends
+
+---
+
+### 🌐 Connect With Me
+* 🐦 **X (Twitter):** [@Tangei78](https://x.com/Tangei78)
+
+---
+
+<p align="center">
+  <i>Code. Analyze. Execute. Let's build the future together.</i>
+</p>
